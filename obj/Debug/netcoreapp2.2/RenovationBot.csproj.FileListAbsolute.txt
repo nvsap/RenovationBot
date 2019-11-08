@@ -1,0 +1,16 @@
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationBot.deps.json
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationBot.runtimeconfig.json
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationBot.runtimeconfig.dev.json
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationBot.dll
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.csprojAssemblyReference.cache
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.csproj.CoreCompileInputs.cache
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.RazorAssemblyInfo.cache
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.RazorAssemblyInfo.cs
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.AssemblyInfoInputs.cache
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.AssemblyInfo.cs
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.RazorTargetAssemblyInfo.cache
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationProjectKyiv-820ea3c3873eSheet.json
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationProjectKyiv-d4f2a30148c2drive.json
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\bin\Debug\netcoreapp2.2\RenovationBot.pdb
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.dll
+C:\Users\m.sapozhny\Source\repos\RenovationBot\RenovationBot\obj\Debug\netcoreapp2.2\RenovationBot.pdb
