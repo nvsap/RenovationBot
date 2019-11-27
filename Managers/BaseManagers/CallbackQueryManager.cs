@@ -22,7 +22,7 @@ namespace RenovationBot.Managers.BaseManagers
 
                     if (callBack.Data == "AddBuilding")
                     {
-                        BuildingsManager.AddBuilding(botClient, db, update.CallbackQuery.Message);
+                       BuildingsManager.AddBuilding(botClient, db, update.CallbackQuery.Message);
                     }
                 }
             }
